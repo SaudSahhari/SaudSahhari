@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saud 👋</h1>
+<h1 align="center">👋 Hi, I'm Saud </h1>
 
 <img src="banner.png" width="100%" />
 

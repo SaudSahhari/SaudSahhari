@@ -1,17 +1,10 @@
-# Hi! 👋
 
 <img src="banner.png" width="100%" />
 
 <h1 align="center">Hi, I'm Saud 👋</h1>
 
-<p align="center">
-    <a href="https://twitter.com/mohammmadyahya1"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="www.linkedin.com/in/mohammad-yahya-912482257"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/channel/UC3sCzPoswvXgEpg1_rZqz3w"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mo7ammad.yahya/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
 
-<img src="https://raw.githubusercontent.com/gist/mohamedabusrea/mohamedabusrea/master/profile-img.png" align="right" width="200px" />
+<img src="dashboard.png" align="right" width="200px" />
 
 * 💻 **Data Analyst** sharing my projects and growth in tech  
 * 🎓 **Graduated** in Software and Data Engineering  

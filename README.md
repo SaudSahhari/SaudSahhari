@@ -1,26 +1,36 @@
 # Hi! 👋
 
-<img src="banner.png" width="100%" alt="Banner about Arturs Smirnovs" />
-### Hi! 👋
+<img src="banner.png" width="100%" />
 
-<img src="banner.png" width="100%" alt="Banner about Arturs Smirnovs" />
+<h1 align="center">Hi, I'm Saud 👋</h1>
 
-I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
-I have been working in various fields, starting from crypto currency, finances and ending with human resources.
-I have always been hard working and goal's focused with proven results.
+<p align="center">
+    <a href="https://twitter.com/mohammmadyahya1"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="www.linkedin.com/in/mohammad-yahya-912482257"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UC3sCzPoswvXgEpg1_rZqz3w"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mo7ammad.yahya/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-#### TECH STACK
+<img src="https://raw.githubusercontent.com/gist/mohamedabusrea/mohamedabusrea/master/profile-img.png" align="right" width="200px" />
 
-PHP / MYSQL / SOLR / FLUTTER / DART / JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / LARAVEL / YII2 / CODIGNITER / UNIX / GITHUB / SVN / APACHE / NGINX / REST API / NATIVE SCRIPT / AZURE / GOOGLE API's
+* 💻 **Data Analyst** sharing my projects and growth in tech  
+* 🎓 **Graduated** in Software and Data Engineering  
+* 📊 **Passionate** about data storytelling, dashboards & automation  
+* 🔍 **Exploring** opportunities in analytics, BI, and insights generation  
+* 🧠 **Always** building something new
 
-##### MOTTO
+<br clear="right"/>
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+## 💻 Tech Stack
+[![](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white)]()
+[![](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
+[![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)]()
+[![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 
-####
-
-<a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://twitter.com/artuurssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/arturssmirnovs/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/art%C5%ABrs-smirnovs-b6399275/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/arturssmirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
+## 📁 Featured Projects
+* [Palestine-Wanderer (Web)](https://github.com/MohammadYahya2/Palestine-Wanderer)
+* [Stories-Restaurant-menu (Web)](https://github.com/MohammadYahya2/Stories-Restaurant-menu)
+* [warehouse_app (Web)](https://github.com/MohammadYahya2/warehouse_app)

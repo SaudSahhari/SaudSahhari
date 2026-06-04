@@ -25,6 +25,6 @@
 
 ## 📁 Featured Projects
 * [Palestine-Wanderer (Web)](https://github.com/MohammadYahya2/Palestine-Wanderer)
-* [Stories-Restaurant-menu (Web)](https://github.com/MohammadYahya2/Stories-Restaurant-menu)
-* [warehouse_app (Web)](https://github.com/MohammadYahya2/warehouse_app)
+* [Healthcare-Efficiency-Analysis🩺](https://github.com/SaudSahhari/Healthcare-Efficiency-Analysis.git)
+* [BikeStores-Sales-Analysis🚲](https://github.com/SaudSahhari/BikeStores-Sales-Analysis.git)
 
